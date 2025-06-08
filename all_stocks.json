@@ -1,0 +1,167 @@
+[
+  {
+    "shop": "GEAR STOCK",
+    "items": [
+      {
+        "name": "Watering Can",
+        "amount": 3,
+        "emoji": "💧"
+      },
+      {
+        "name": "Trowel",
+        "amount": 1,
+        "emoji": "🪴"
+      },
+      {
+        "name": "Recall Wrench",
+        "amount": 3,
+        "emoji": "🔧"
+      },
+      {
+        "name": "Favorite Tool",
+        "amount": 1,
+        "emoji": "🛠️"
+      },
+      {
+        "name": "Harvest Tool",
+        "amount": 2,
+        "emoji": "🔨"
+      }
+    ]
+  },
+  {
+    "shop": "EGG STOCK",
+    "items": [
+      {
+        "name": "Common Egg",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Common Egg",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Legendary Egg",
+        "amount": 1,
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "shop": "SEEDS STOCK",
+    "items": [
+      {
+        "name": "Carrot",
+        "amount": 8,
+        "emoji": "🥕"
+      },
+      {
+        "name": "Strawberry",
+        "amount": 5,
+        "emoji": "🍓"
+      },
+      {
+        "name": "Blueberry",
+        "amount": 5,
+        "emoji": "🫐"
+      },
+      {
+        "name": "Orange Tulip",
+        "amount": 11,
+        "emoji": ""
+      },
+      {
+        "name": "Tomato",
+        "amount": 2,
+        "emoji": "🍅"
+      }
+    ]
+  },
+  {
+    "shop": "HONEY STOCK",
+    "items": [
+      {
+        "name": "Flower Seed Pack",
+        "amount": 2,
+        "emoji": "🌸"
+      },
+      {
+        "name": "Lavender",
+        "amount": 5,
+        "emoji": "🌷"
+      },
+      {
+        "name": "Nectarshade",
+        "amount": 3,
+        "emoji": "🍯"
+      },
+      {
+        "name": "Bee Crate",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Honey Comb",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Bee Chair",
+        "amount": 1,
+        "emoji": ""
+      }
+    ]
+  },
+  {
+    "shop": "COSMETICS STOCK",
+    "items": [
+      {
+        "name": "Sign Crate",
+        "amount": 2,
+        "emoji": ""
+      },
+      {
+        "name": "Log Bench",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Torch",
+        "amount": 3,
+        "emoji": ""
+      },
+      {
+        "name": "Rake",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Medium Circle Tile",
+        "amount": 3,
+        "emoji": ""
+      },
+      {
+        "name": "Red Well",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Flat Canopy",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Small Stone Table",
+        "amount": 1,
+        "emoji": ""
+      },
+      {
+        "name": "Small Stone Pad",
+        "amount": 5,
+        "emoji": ""
+      }
+    ]
+  }
+]
