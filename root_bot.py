@@ -119,12 +119,12 @@ def get_notify_keyboard() -> ReplyKeyboardMarkup:
 
 def get_event_notify_keyboard() -> ReplyKeyboardMarkup:
     builder = ReplyKeyboardBuilder()
-    builder.button(text="🍑Нектарин.🍑")
-    builder.button(text="🏠Фрукт уле.🐝")
-    builder.button(text="🍯Медовый разбрызгиватель.💦")
-    builder.button(text="🐝Bee egg.🥚"),
-    builder.button(text="🍯Pollen Radar.📻"),
-    builder.button(text="⚕Nectar Staff.🍯")
+    builder.button(text="🍑Нектарин🍑")
+    builder.button(text="🏠Фрукт улей🐝")
+    builder.button(text="🍯Медовый разбрызгиватель💦")
+    builder.button(text="🐝Bee egg🥚"),
+    builder.button(text="🍯Pollen Radar📻"),
+    builder.button(text="⚕Nectar Staff🍯")
     builder.button(text="⬅ Назад")
     return builder.as_markup(resize_keyboard=True)
 
@@ -280,13 +280,13 @@ async def set_hive_subscribe(message: types.Message, state: FSMContext):
     await save_user_subscription(message.from_user.id, "Bee Egg")
     await message.answer(text, reply_markup=get_event_notify_keyboard())
 
-@router.message(StateFilter(UserStatment.waiting_for_what_event_item_to_notify), F.text == "🍯Pollen Radar.📻")
+@router.message(StateFilter(UserStatment.waiting_for_what_event_item_to_notify), F.text == "🍯Pollen Radar📻")
 async def set_hive_subscribe(message: types.Message, state: FSMContext):
     text = "Установлено уведомление на Pollen Radar."
     await save_user_subscription(message.from_user.id, "Pollen Radar")
     await message.answer(text, reply_markup=get_event_notify_keyboard())
 
-@router.message(StateFilter(UserStatment.waiting_for_what_event_item_to_notify), F.text == "⚕Nectar Staff.🍯")
+@router.message(StateFilter(UserStatment.waiting_for_what_event_item_to_notify), F.text == "⚕Nectar Staff🍯")
 async def set_hive_subscribe(message: types.Message, state: FSMContext):
     text = "Установлено уведомление на Nectar Staff."
     await save_user_subscription(message.from_user.id, "Nectar Staff")
