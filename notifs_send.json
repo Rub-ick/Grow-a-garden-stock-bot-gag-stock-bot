@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": "11111111111111",
+    "sended_or_not": "False",
+    "fruits_to_send_dm": [
+      "Godly Sprinkler",
+      "Master Sprinkler",
+      "Lightning Rod",
+      "Nectarine",
+      "Hive",
+      "Honey Sprinkler",
+      "Bee Egg",
+      "Dragon Fruit",
+      "Mango",
+      "Grape",
+      "Mushroom",
+      "Pepper",
+      "Cacao",
+      "Beanstalk"
+    ]
+  },
+  {
+    "user_id": "111111111111111",
+    "sended_or_not": "False",
+    "fruits_to_send_dm": [
+      "Grape",
+      "Mushroom",
+      "Pepper",
+      "Cacao",
+      "Beanstalk",
+      "Godly Sprinkler",
+      "Master Sprinkler",
+      "Lightning Rod",
+      "Nectarine",
+      "Hive",
+      "Honey Sprinkler",
+      "Bee Egg"
+    ]
+  },
+  {
+    "user_id": "11111111111111111111111111",
+    "sended_or_not": "False",
+    "fruits_to_send_dm": []
+  },
+  {
+    "user_id": "111111111111111111111111111111",
+    "sended_or_not": "False",
+    "fruits_to_send_dm": [
+      "Dragon Fruit",
+      "Mango",
+      "Grape",
+      "Mushroom",
+      "Pepper",
+      "Cacao",
+      "Beanstalk",
+      "Godly Sprinkler",
+      "Master Sprinkler",
+      "Lightning Rod",
+      "Nectarine",
+      "Hive",
+      "Honey Sprinkler",
+      "Bee Egg"
+    ]
+  },
+  {
+    "user_id": "1111111111111111111111111111111",
+    "sended_or_not": "False",
+    "fruits_to_send_dm": [
+      "Pepper",
+      "Cacao",
+      "Mushroom",
+      "Dragon Fruit",
+      "Godly Sprinkler",
+      "Master Sprinkler",
+      "Lightning Rod",
+      "Nectarine",
+      "Hive",
+      "Honey Sprinkler",
+      "Bee Egg"
+    ]
+  }
+]
