@@ -7,3 +7,6 @@ I will be very happy if anyone will make forks wich will take stock from other w
 You need to put ways to your files in your system i will mark it in code.
 Also install Aigoram, bs4 and Asyncio.
 There are JSON files wich shows structer of how it will look like after you start bot.
+
+
+I AM VERY SORRY EVERYONE BUT THIS BOT NO LONGER WORKS BECAUSE WEBSITE WHERE IT TAKE STOCK FROM MADE A CLOUDFLARE PROTECTION. DUE MY BAD CODING EXPERIENCE I CANT BYPASS IT. I WOULD BE VERY HAPPY IF ANYONE WILL MAKE A FORK THAT BYPASSES IT!!!
